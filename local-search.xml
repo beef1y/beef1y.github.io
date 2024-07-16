@@ -8,7 +8,7 @@
     <link href="/2024/07/16/%E5%AE%89%E5%8D%93%E5%BC%80%E5%8F%91/"/>
     <url>/2024/07/16/%E5%AE%89%E5%8D%93%E5%BC%80%E5%8F%91/</url>
     
-    <content type="html"><![CDATA[<h2 id="Android-Studio连接华为手机进行调试"><a href="#Android-Studio连接华为手机进行调试" class="headerlink" title="Android Studio连接华为手机进行调试"></a>Android Studio连接华为手机进行调试</h2><p>写在前面: 我的手机型号是华为nova12pro，目前Android Studio已经支持无线调试了，但是华为鸿蒙手机开发者模式没有无线调试功能，所以只能用USB线调试。</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="Android-Studio连接华为手机进行调试"><a href="#Android-Studio连接华为手机进行调试" class="headerlink" title="Android Studio连接华为手机进行调试"></a>Android Studio连接华为手机进行调试</h2><p>​ 我的手机型号是华为nova12pro，目前Android Studio已经支持无线调试了，但是华为鸿蒙手机开发者模式没有无线调试功能，所以只能用USB线调试。</p>]]></content>
     
     
     <categories>
