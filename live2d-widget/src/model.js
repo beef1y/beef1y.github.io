@@ -60,7 +60,7 @@ class Model {
         let modelId = localStorage.getItem("modelId");
         if (this.useCDN) {
             if (!this.modelList) await this.loadModelList();
-            const index = (++modelId >= this.modelList.models.length) ? 0 : modelId;
+            const index = (++modelId >= this.modelList.models.length) ? 7 : modelId;
             this.loadModel(index, 0, this.modelList.messages[index]);
         } else {
             fetch(`${this.apiPath}switch/?id=${modelId}`)
